@@ -34,6 +34,12 @@ Use case: Obstacle traversal, stair climbing, ramp navigation, and cinematic cam
 
 Digital twin: Used for locomotion testing, behavior validation, and motion tuning.
 
+Project homepage: 
+https://unigen-x.github.io/unifolm-vla.github.io/ 
+Open source code URL: 
+https://github.com/unitreerobotics/unifolm-vla
+Unitree Robotics has open-sourced UnifoLM-VLA-0 — a Vision–Language–Action (VLA) foundation model designed for general-purpose humanoid robot manipulation.
+
 UNITREE GITHUB LINK:
 https://github.com/unitreerobotics
 
